@@ -274,7 +274,7 @@ function parseDefaultSettings(file) {
 		try {
 			settings = JSON.parse(json);
 		}
-		catch {
+		catch(err) {
 			settings = {};
 		}
 		return getDSLBandwidth(settings.useDSL).then(function(dsl) {
