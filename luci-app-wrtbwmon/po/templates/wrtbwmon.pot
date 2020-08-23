@@ -254,3 +254,11 @@ msgstr ""
 #: htdocs/luci-static/resources/view/wrtbwmon/details.js:155
 msgid "ipv6"
 msgstr ""
+
+#: htdocs/luci-static/resources/view/wrtbwmon/details.js:640
+msgid "GITHUB"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/wrtbwmon/details.js:641
+msgid "Project address:"
+msgstr ""

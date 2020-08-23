@@ -77,3 +77,8 @@ div > label + select {
     border-radius: 0.375rem;
     padding: 5px 0 0 10px;
 }
+.github {
+    float: right;
+    color: #9C9C9C;
+    margin: 8px 6px 0 0;
+}

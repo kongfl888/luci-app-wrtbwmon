@@ -635,6 +635,10 @@ return L.view.extend({
 					E('div', {'class': 'tr placeholder'}, [
 						E('div', { 'class': 'td' }, E('em', {}, _('Collecting data...')))
 					])
+				]),
+				E('div', {}, [
+					E('a', { 'href': 'https://github.com/kongfl888/luci-app-wrtbwmon', 'target': '_blank', 'class': 'github' },  _('GITHUB')),
+					E('span', { 'class': 'github' },  _('Project address:'))
 				])
 			])
 		]);

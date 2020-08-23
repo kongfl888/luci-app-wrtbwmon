@@ -255,6 +255,15 @@ msgstr ""
 msgid "ipv6"
 msgstr ""
 
+#: htdocs/luci-static/resources/view/wrtbwmon/details.js:640
+msgid "GITHUB"
+msgstr "GITHUB"
+
+#: htdocs/luci-static/resources/view/wrtbwmon/details.js:641
+msgid "Project address:"
+msgstr "项目地址："
+
+
 #~ msgid "Hide the control panel"
 #~ msgstr "隐藏控制面板版"
 
