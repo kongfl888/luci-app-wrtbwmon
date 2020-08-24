@@ -150,3 +150,6 @@ msgstr "wrtbwmon插件尚未安装"
 
 msgid "."
 msgstr "。"
+
+msgid "Because of the version of JavaScript, please avoid using IE browser"
+msgstr "因为 JavaScript 版本的兼容问题，请避免使用IE浏览器打开本应用"

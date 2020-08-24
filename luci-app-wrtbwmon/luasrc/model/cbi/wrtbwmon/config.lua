@@ -1,7 +1,7 @@
 local lastvalue
 local cursor = luci.model.uci.cursor()
 local m, s, o
-m = Map("wrtbwmon", translate("Usage - Configuration"))
+m = Map("wrtbwmon", translate("Usage - Configuration"), translate('Because of the version of JavaScript, please avoid using IE browser'))
 
 s = m:section(NamedSection, "general", "wrtbwmon", translate("General settings"))
 
