@@ -28,7 +28,7 @@ return L.view.extend({
 	render: function() {
 		var m, s, o;
 
-		m = new form.Map('wrtbwmon', _('Usage - Configuration'));
+		m = new form.Map('wrtbwmon', _('Usage - Configuration'),  _('Because of the version of JavaScript, please avoid using IE browser'));
 
 		s = m.section(form.NamedSection, 'general', 'wrtbwmon', _('General settings'));
 		s.addremove = false;

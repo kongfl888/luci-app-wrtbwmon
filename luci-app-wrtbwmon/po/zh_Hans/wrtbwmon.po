@@ -263,6 +263,9 @@ msgstr "GITHUB"
 msgid "Project address:"
 msgstr "项目地址："
 
+#: htdocs/luci-static/resources/view/wrtbwmon/config.js:31
+msgid "Because of the version of JavaScript, please avoid using IE browser"
+msgstr "因为 JavaScript 版本的兼容问题，请避免使用IE浏览器打开本应用"
 
 #~ msgid "Hide the control panel"
 #~ msgstr "隐藏控制面板版"

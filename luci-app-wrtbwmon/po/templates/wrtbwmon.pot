@@ -262,3 +262,7 @@ msgstr ""
 #: htdocs/luci-static/resources/view/wrtbwmon/details.js:641
 msgid "Project address:"
 msgstr ""
+
+#: htdocs/luci-static/resources/view/wrtbwmon/config.js:31
+msgid "Because of the version of JavaScript, please avoid using IE browser"
+msgstr ""
